@@ -1,0 +1,233 @@
+.fonmc{
+  background-image: url(fonMC.jpg);
+}
+h1{
+  font-size: 40px;
+  text-align: center;
+  color: Goldenrod;
+}
+.a1{
+  background-color: Lavender;
+  font-size: 18px;
+  border-radius: 15px;
+  box-shadow: 0 0 10px #000;
+  padding: 3px 10px;
+  text-decoration: none;
+}
+.A{
+  margin-left: 787px;
+}
+.A1{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+.img1{
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.margin{
+  margin-left: 200px;
+}
+hr{
+  height: 2px;
+  border-color: gold;
+  width: 1600px;
+}
+.img2{
+  position: absolute;
+  margin-left: 350px;
+}
+.img3{
+  position: absolute;
+  margin-left: 1445px;
+}
+.img5{
+  position: absolute;
+  margin-left: 600px;
+}
+.img6{
+  position: absolute;
+  margin-left: 1205px;
+}
+h4{
+  position: absolute;
+  margin-left: 1600px;
+  margin-top: 115px;
+}
+.popular{
+  margin-left: 250px;
+  border: 2px solid gold;
+  padding: 3px;
+  margin-right: 1544px;
+  border-radius: 10px;
+  margin-top: -10px;
+}
+.popular1{
+  margin-left: 250px;
+  border: 2px solid gold;
+  padding: 3px;
+  margin-right: 1520px;
+  border-radius: 10px;
+  margin-top: -10px;
+}
+.burger1{
+  position: absolute;
+  margin-left: 420px;
+  margin-top: 30px;
+}
+.burger2{
+  position: absolute;
+  margin-left: 270px;
+  margin-top: 100px;
+}
+.burger3{
+  position: absolute;
+  margin-left: 650px;
+  margin-top: 134px;
+}
+.burger4{
+  position: absolute;
+  margin-left: 1030px;
+  margin-top: 100px;
+}
+.burger5{
+  position: absolute;
+  margin-left: 1410px;
+  margin-top: 100px;
+}
+.tcena{
+  margin-right: 600px;
+  margin-top: -52px;
+  margin-left: 420px;
+}
+.g{
+  margin-top: -6px;
+}
+.burger1{
+  margin-top: 55px;
+}
+.cola{
+  position: absolute;
+  margin-left: 890px;
+  margin-top: 30px;
+}
+.fre{
+  position: absolute;
+  margin-left: 1200px;
+  margin-top: -20px;
+}
+.food1{
+  position: absolute;
+  margin-top: 305px;
+  margin-left: 490px;
+  border: 1.5px solid gold;
+  border-radius: 15px;
+  padding: 3px;
+}
+.food2{
+  position: absolute;
+  margin-top: 305px;
+  margin-left:924px;
+  border: 1.5px solid gold;
+  border-radius: 15px;
+  padding: 3px;
+}
+.food3{
+  margin-top: 305px;
+  margin-left:1337px;
+  border: 1.5px solid gold;
+  border-radius: 15px;
+  padding: 3px;
+}
+.structure1{
+  margin-left: 523px;
+  margin-top: 358px;
+}
+.structure2{
+  position: absolute;
+  margin-left: 941px;
+  margin-top: -84px;
+}
+.structure3{
+  position: absolute;
+  margin-left: 1352px;
+  margin-top: -84px;
+}
+.hr1{
+  width: 165px;
+  position: absolute;
+  margin-top: 347px;
+  margin-left: 470px;
+}
+.hr2{
+  width: 165px;
+  position: absolute;
+  margin-top: 347px;
+  margin-left: 888px;
+}
+.hr3{
+  width: 165px;
+  position: absolute;
+  margin-top: 347px;
+  margin-left: 1300px;
+}
+.hr4{
+  width: 165px;
+  margin-top: -10px;
+  position: absolute;
+  margin-left: 470px;
+}
+.hr5{
+  width: 165px;
+  margin-top: -10px;
+  position: absolute;
+  margin-left: 888px;
+}
+.hr6{
+  width: 165px;
+  margin-top: -10px;
+  position: absolute;
+  margin-left: 1300px;
+}
+.price1{
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 520px;
+}
+.price2{
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 938px;
+}
+.price3{
+  position: absolute;
+  margin-top: 5px;
+  margin-left: 1352px;
+}
+.strelka{
+  position: absolute;
+  margin-left: -346px;
+  margin-top: 27px;
+}
+.menuA{
+  box-shadow: 0 0 5px #000;
+  padding: 2px;
+  border-radius: 8PX;
+  background-color: PaleGoldenrod;
+  border: 1px solid Khaki;
+  text-decoration: none;
+  position: absolute;
+  margin-top: -50px;
+}
+.menuA1{
+  margin-left: 676px;
+}
+.menuA2{
+  margin-left: 746px;
+}
+.menuA3{
+  margin-left: 833px;
+}
+.menuA4{
+  margin-left:916px;
+}
